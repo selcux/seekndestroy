@@ -1,6 +1,13 @@
-#+TITLE: Seek'n'Destroy
-#+DESCRIPTION: Find and kill processes by the given pattern.
+# Created 2022-01-02 Paz 20:00
+#+title: Seek'n'Destroy
+#+author: Selçuk Öztürk
+#+description: Find and kill processes by the given pattern.
+#+export_file_name: ../README.org
 
-#+HEADER: Settings
-
-#+INCLUDE: "https://github.com/selcux/seekndestroy/blob/main/snd.toml" src toml
+* Configuration
+** snd.toml
+#+begin_src toml
+[process]
+el = ".*\\.el$"
+emacs = ".*emacs.*"
+#+end_src

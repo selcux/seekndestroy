@@ -1,0 +1,7 @@
+#+TITLE: Seek'n'Destroy
+#+DESCRIPTION: Find and kill processes by the given pattern.
+#+EXPORT_FILE_NAME: ../README.org
+
+* Configuration
+** snd.toml
+#+INCLUDE: "../snd.toml" src toml
