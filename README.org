@@ -1,0 +1,6 @@
+#+TITLE: Seek'n'Destroy
+#+DESCRIPTION: Find and kill processes by the given pattern.
+
+#+HEADER: Settings
+
+#+INCLUDE: "snd.toml" src toml
