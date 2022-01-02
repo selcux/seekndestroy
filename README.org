@@ -3,4 +3,4 @@
 
 #+HEADER: Settings
 
-#+INCLUDE: "snd.toml" src toml
+#+INCLUDE: "https://github.com/selcux/seekndestroy/blob/main/snd.toml" src toml
